@@ -1,0 +1,6 @@
+PRUEBA GET /reportes
+Respuesta: []
+
+PRUEBA POST /reportes
+Datos enviados: {"tipo":"Ambiente","descripcion":"Acumulación de residuos"}
+Respuesta: {"mensaje":"Reporte guardado","reporte":{"tipo":"Ambiente","descripcion":"Acumulación de residuos"}}
