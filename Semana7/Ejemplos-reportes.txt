@@ -1,0 +1,17 @@
+EJEMPLO 1 - Ambiente
+{
+  "tipo": "Ambiente",
+  "descripcion": "Basuras en la quebrada del barrio"
+}
+
+EJEMPLO 2 - Social
+{
+  "tipo": "Social", 
+  "descripcion": "Falta de iluminación en el parque central"
+}
+
+EJEMPLO 3 - Seguridad
+{
+  "tipo": "Seguridad",
+  "descripcion": "Moto robada cerca al colegio"
+}
