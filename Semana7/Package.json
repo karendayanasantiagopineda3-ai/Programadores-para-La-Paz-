@@ -1,0 +1,12 @@
+{
+  "name": "reportes-comunidad",
+  "version": "1.0.0",
+  "description": "API para registrar reportes de la comunidad - Semana 7",
+  "main": "Server.js",
+  "scripts": {
+    "start": "node Server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
